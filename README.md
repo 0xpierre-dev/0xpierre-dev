@@ -1,47 +1,43 @@
+<div align="center">
+
+<img src="logo.png" width="120" alt="0xPierre logo">
+
 # 0xPierre
 
-Developer
+**Creative Developer**<br>
+Immersive web, 3D, live formats and robotics, for creators, artists and brands.
 
-[0xpierre.com](https://0xpierre.com)
+[0xpierre.com](https://0xpierre.com) · [contact@0xpierre.com](mailto:contact@0xpierre.com)
 
-## Social
+</div>
 
-[![](https://img.shields.io/badge/-@0xPierre_com-1DA1F2?style=flat-square&logo=x)](https://x.com/0xPierre_com)
-[![](https://img.shields.io/badge/-@0xpierre.dev-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/0xpierre.dev)
-[![](https://img.shields.io/badge/-0xpierre_-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/0xpierre_)
-[![](https://img.shields.io/youtube/channel/subscribers/UC1fH4SxZP8ir-EL2KZWB43A?style=social)](https://www.youtube.com/c/0xPierre)
+```
+> identity: 0xPierre
+> role: Creative Developer
+> core: React · Next.js · TypeScript
+> also: Three.js · Unreal Engine · Robotics
+```
 
-## Languages
+## What I do
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png"></code>
+- **Immersive web and 3D.** Websites and apps that feel like experiences: React, Next.js, Three.js.
+- **Live and interactive formats.** Web games and tools built for streams, shows and events.
+- **Games and real-time 3D.** Unreal Engine 5, Game Boy experiences, game servers.
 
-## Frameworks & Libraries
+10+ years, 60+ projects shipped end to end. Fully remote, in French and English, as a freelancer or embedded in a team. 
+Most client code is private: the projects, with videos, are on [0xpierre.com](https://0xpierre.com/#work).
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
+## Stack
 
-## Tools & Platforms
+- **Web and mobile:** React, Next.js, TypeScript, React Native, Expo, Tailwind CSS, Three.js / R3F, GSAP, Framer Motion, Electron
+- **Backend and infra:** Node.js, Bun, PostgreSQL, MongoDB, Redis, Drizzle, Prisma, Docker, Linux
+- **Game and 3D:** Unreal Engine, Unity, C++, Lua, Blender, CS2, Garry's Mod, S&box
+- **Robotics:** ROS / ROS 2, Unitree SDK, Python, MuJoCo, Isaac Lab, motion control, Raspberry Pi
+- **Web3:** Zcash, Solidity, EVM, Solana, Rust, IPFS
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png"></code>
+## Elsewhere
 
-## Cloud Provider Experience:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
-<code><img height="20" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+[![X](https://img.shields.io/badge/@0xPierre__com-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xPierre_com)
+[![Instagram](https://img.shields.io/badge/@0xpierre.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/0xpierre.dev)
+[![Twitch](https://img.shields.io/badge/0xpierre__-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/0xpierre_)
+[![YouTube](https://img.shields.io/badge/@0xPierre-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/0xPierre)
